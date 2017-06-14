@@ -6,6 +6,7 @@ Microsoft Build Tour의 Serverless 세션에서 시연하였던 일명 “안촉
 2.	‘만들기’를 선택합니다.
 3.	‘이름’란에 choco 라고 입력합니다. ‘리소스 그룹’이하에 ‘새로 만들기’가 선택되어 있는지 확인하고 choco-rg 라고 입력합니다. 위치에서 한국에서 가장 가까운 일본 동/서부 중 하나를 선택합니다.(한국 데이터 센터에서는 아직 Logic App을 지원하지 않지만 근시일 내에 지원할 것으로 예상합니다.)
 4.	하단에 ‘대시보드에 고정’을 선택하고, ‘만들기’를 누릅니다.
+
 ![create logic app](/images/createblob.png)
  
 ## 저장소 계정 생성
@@ -51,6 +52,7 @@ Microsoft Build Tour의 Serverless 세션에서 시연하였던 일명 “안촉
 7.	‘Blob 이름’ 우측 입력란에서  ‘피드 항목 게시물 ID’를 선택한 후, 연이어 .wav라고 입력합니다.
 8.	‘Blob 콘텐츠’ 우측 입력란에서 ‘오디오 파일’을 선택합니다.
 9.	‘작업 추가’를 누릅니다.
+
 ![create audio file](/images/createblob.png)
 
 ##	DropBox 저장
@@ -68,5 +70,6 @@ Microsoft Build Tour의 Serverless 세션에서 시연하였던 일명 “안촉
  
 ##	음성확인
 1.	DropBox에 접속하여 생성된 .wav 파일을 수행하여 음성을 확인합니다.
+
 ![result](/images/result.png)
 감사합니다.
