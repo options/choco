@@ -72,4 +72,5 @@ Microsoft Build Tour의 Serverless 세션에서 시연하였던 일명 “안촉
 1.	DropBox에 접속하여 생성된 .wav 파일을 수행하여 음성을 확인합니다.
 
 ![result](/images/result.png)
+
 감사합니다.
