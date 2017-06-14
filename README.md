@@ -1,5 +1,5 @@
 Microsoft Build Tour의 Serverless 세션에서 시연하였던 일명 “안촉촉한 초코칩” 데모 자습서를 간단히 만들어 보았습니다. 
-이 자습서를 진행하려면 우선 Microsoft Azure 구독이 필요하며, 구독이 없으신 분이라면 https://azure.microsoft.com/ko-kr/free/ 에서 30일간 240,000 한도 내에서 사용하실 수 있는 체험 계정을 신청하실 수 있습니다. 음성 파일을 내보내기 위해서 DropBox 계정을 필요로 하지만 필수는 아니며 One Drive로 파일을 저장하거나 혹은 Storage Explorer(http://storageexplorer.com/) 등을 이용하여 Azure의 Blob Storage에 저장된 파일을 직접 확인할 수 있습니다.
+이 자습서를 진행하려면 우선 Microsoft Azure 구독이 필요하며, 구독이 없으신 분이라면 https://azure.microsoft.com/ko-kr/free/ 에서 30일간 240,000원 한도 내에서 Azure를 사용하실 수 있는 체험 계정을 신청하실 수 있습니다. 음성 파일을 저장하기 위해서 DropBox 계정을 필요로 하지만 필수는 아니며, One Drive에 파일을 저장하거나 Storage Explorer(http://storageexplorer.com/) 와 같은 도구를 이용하여 Azure의 Blob Storage에 저장된 파일을 직접 확인할 수 있습니다.
 
 ## Azure Logic App 생성
 1.	좌측 메뉴에서 ‘새로 만들기’ 를 누른 후, 논리 앱(Logic App)을 검색한 후,  결과 리스트에서 Logic App을 선택합니다.
